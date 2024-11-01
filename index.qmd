@@ -92,3 +92,74 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ## Quick Look at Today's Schedule
 
 Head over to [rinpharma.com](https://rinpharma.com) to access the schedule in your time zone.
+
+# Closing Remarks
+
+## Wow - First R/Pharma APAC 🎉
+
+Thank you to all the speakers, sponsors, committee members, and attendees for making this event possible.  We hope you enjoyed the content and the networking opportunities!
+
+![](assets/wow.jpg){width=300}
+
+## Thank you: APAC Track Committee 🙏
+
+![](assets/apac_committee.png){center}
+
+## Thank you: R/Pharma Sponsors 🙏
+
+![](assets/novo.jpeg){width=300}
+![](assets/j_and_j.png){width=300}
+![](assets/posit.png){width=300}
+
+## Looking Back
+
+I really enjoyed this first APAC track of R/Pharma!
+
+- 2 workshops: Thanks to Joe for supporting me, thanks to Farid for the great `rmarkdown` automation workshop
+- 20 presentations: Thanks to everyone who submitted and presented! 
+- 2 roundtable discussions: Thanks to our Chinese and Japanese panel discussants! 
+- 3 keynote replays followed by discussion panels: Wow, 3 AI/LLM keynotes! Definitely a key theme and highlight of this year's conference.
+
+## Few Personal Challenges - I am sure you had some too!
+
+::: {.columns}
+::: {.column}
+![](assets/typhoon.jpg){height=100%}
+:::
+::: {.column}
+![](assets/water.jpg){height=100%}
+:::
+:::
+
+## Gathering some Feedback
+
+Please share some thoughts in the chat!
+
+- What was your favorite part of the conference?
+- What would you like to see in future R/Pharma events?
+- What can we do to make the conference better?
+
+## Materials
+
+- Speakers: If you are willing to share slides, please send them to [harvey@opensourceinpharma.com](mailto:harvey@opensourceinpharma.com) 
+- Recordings will be available on the [R/Pharma YouTube channel](https://www.youtube.com/@RinPharma) in a couple of weeks
+- Slides (as available) will be posted on the [R/Pharma website](https://rinpharma.com) in a couple of weeks (see [example](https://rinpharma.com/publication/rinpharma_337/) from 2023)
+
+## Next Steps
+
+-  Spread the word about R/Pharma in your region and community!
+-  Join the Slack channel: [rinpharma.slack.com](https://rinpharma.slack.com)
+-  Want to help?
+    -  Email **[info@rinpharma.com](mailto:info@rinpharma.com)** to get in touch! 
+-  Want to give (more) feedback?
+    -  Fill in the contact form on **[rinpharma.com](https://rinpharma.com)**
+    -  Email to **[info@rinpharma.com](mailto:info@rinpharma.com)** (global) or **[daniel@rconis.com](mailto:daniel@rconis.com)** (APAC)
+
+## See you next year! 🎉
+
+![](assets/rpharma_apac_track.png){width=300}
+
+::: bottom
+These slides: 
+[danielinteractive.github.io/rpharma-apac-2024](https://danielinteractive.github.io/rpharma-apac-2024/)
+:::
